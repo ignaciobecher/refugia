@@ -996,19 +996,19 @@ a:focus {
 .contact_section button {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #e7d619;
+  background-color: #0a2050;
   color: #ffffff;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #e7d619;
+  border: 1px solid #0a2050;
   border-radius: 0;
   color: #fff;
   margin-top: 35px;
 }
 
 .contact_section button:hover {
-  background-color: transparent;
-  color: #e7d619;
+  background-color: #eaeaea;
+  color: #0a2050;
 }
 
 .contact_section .map_container {
@@ -1119,7 +1119,7 @@ a:focus {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #e7d619;
+  background-color: #000000;
 }
 
 .footer_section p {
@@ -1132,6 +1132,10 @@ a:focus {
 
 .footer_section a {
   color: #ffffff;
+}
+
+.footer_section img {
+  width: 150px;
 }
 
 /* end footer section*/
